@@ -6,7 +6,7 @@ Here's a glimpse of what our home screen will look like:
 
 ![Home screen Screenshot](./screenshot-1.png)
 
-### [Live Site]()
+### [Live Site](https://coming-soon-ashy-seven.vercel.app/)
 
 ## 2. API Integration
 
